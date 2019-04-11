@@ -1,7 +1,5 @@
 # My `create-react-app` starter kit
 
---
-
 * Use this for speedy development 🚀
 
 ## Usage
